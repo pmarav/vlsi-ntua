@@ -1,0 +1,5 @@
+Running: xsim.dir/FIR_para_tb_behav/xsimk.exe -simmode gui -wdb FIR_para_tb_behav.wdb -simrunnum 0 -socket 53128
+Design successfully loaded
+Design Loading CPU Usage: 218 ms
+Simulation completed
+Simulation CPU Usage: 406 ms
